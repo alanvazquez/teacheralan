@@ -1,0 +1,10 @@
+# Ignore Node Modules
+node_modules
+src
+
+# Sass Cache
+.sass-cache
+
+# gulpfile & package.json
+gulpfile.js
+package.json
